@@ -1,9 +1,18 @@
-D:\Dev\Design Pattern\ComposePC\ComposePC\bin\Debug\netstandard2.0\ComposePC.deps.json
-D:\Dev\Design Pattern\ComposePC\ComposePC\bin\Debug\netstandard2.0\ComposePC.dll
-D:\Dev\Design Pattern\ComposePC\ComposePC\bin\Debug\netstandard2.0\ComposePC.pdb
-D:\Dev\Design Pattern\ComposePC\ComposePC\obj\Debug\netstandard2.0\ComposePC.csprojAssemblyReference.cache
-D:\Dev\Design Pattern\ComposePC\ComposePC\obj\Debug\netstandard2.0\ComposePC.csproj.CoreCompileInputs.cache
-D:\Dev\Design Pattern\ComposePC\ComposePC\obj\Debug\netstandard2.0\ComposePC.AssemblyInfoInputs.cache
-D:\Dev\Design Pattern\ComposePC\ComposePC\obj\Debug\netstandard2.0\ComposePC.AssemblyInfo.cs
-D:\Dev\Design Pattern\ComposePC\ComposePC\obj\Debug\netstandard2.0\ComposePC.dll
-D:\Dev\Design Pattern\ComposePC\ComposePC\obj\Debug\netstandard2.0\ComposePC.pdb
+D:/Dev/Design Pattern/ComposePC/ComposePC/bin/Debug/netstandard2.0/ComposePC.deps.json
+D:/Dev/Design Pattern/ComposePC/ComposePC/bin/Debug/netstandard2.0/ComposePC.dll
+D:/Dev/Design Pattern/ComposePC/ComposePC/bin/Debug/netstandard2.0/ComposePC.pdb
+D:/Dev/Design Pattern/ComposePC/ComposePC/obj/Debug/netstandard2.0/ComposePC.csprojAssemblyReference.cache
+D:/Dev/Design Pattern/ComposePC/ComposePC/obj/Debug/netstandard2.0/ComposePC.csproj.CoreCompileInputs.cache
+D:/Dev/Design Pattern/ComposePC/ComposePC/obj/Debug/netstandard2.0/ComposePC.AssemblyInfoInputs.cache
+D:/Dev/Design Pattern/ComposePC/ComposePC/obj/Debug/netstandard2.0/ComposePC.AssemblyInfo.cs
+D:/Dev/Design Pattern/ComposePC/ComposePC/obj/Debug/netstandard2.0/ComposePC.dll
+D:/Dev/Design Pattern/ComposePC/ComposePC/obj/Debug/netstandard2.0/ComposePC.pdb
+/Users/rubyesgi/Documents/workspace/design_patterns_cours/DesignPatternPcTp/ComposePC/bin/Debug/netstandard2.0/ComposePC.deps.json
+/Users/rubyesgi/Documents/workspace/design_patterns_cours/DesignPatternPcTp/ComposePC/bin/Debug/netstandard2.0/ComposePC.dll
+/Users/rubyesgi/Documents/workspace/design_patterns_cours/DesignPatternPcTp/ComposePC/bin/Debug/netstandard2.0/ComposePC.pdb
+/Users/rubyesgi/Documents/workspace/design_patterns_cours/DesignPatternPcTp/ComposePC/obj/Debug/netstandard2.0/ComposePC.csprojAssemblyReference.cache
+/Users/rubyesgi/Documents/workspace/design_patterns_cours/DesignPatternPcTp/ComposePC/obj/Debug/netstandard2.0/ComposePC.csproj.CoreCompileInputs.cache
+/Users/rubyesgi/Documents/workspace/design_patterns_cours/DesignPatternPcTp/ComposePC/obj/Debug/netstandard2.0/ComposePC.AssemblyInfoInputs.cache
+/Users/rubyesgi/Documents/workspace/design_patterns_cours/DesignPatternPcTp/ComposePC/obj/Debug/netstandard2.0/ComposePC.AssemblyInfo.cs
+/Users/rubyesgi/Documents/workspace/design_patterns_cours/DesignPatternPcTp/ComposePC/obj/Debug/netstandard2.0/ComposePC.dll
+/Users/rubyesgi/Documents/workspace/design_patterns_cours/DesignPatternPcTp/ComposePC/obj/Debug/netstandard2.0/ComposePC.pdb

@@ -2,6 +2,6 @@ namespace ComposePC
 {
     public interface IProcessor : IOptions
     {
-        string Type {get;}
+        string Type { get; }
     }
 }
