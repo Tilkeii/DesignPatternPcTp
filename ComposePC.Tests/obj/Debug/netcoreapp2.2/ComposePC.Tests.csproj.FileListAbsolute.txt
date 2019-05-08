@@ -1,0 +1,17 @@
+D:\Dev\Design Pattern\ComposePC\ComposePC.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Dev\Design Pattern\ComposePC\ComposePC.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Dev\Design Pattern\ComposePC\ComposePC.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Dev\Design Pattern\ComposePC\ComposePC.Tests\bin\Debug\netcoreapp2.2\ComposePC.Tests.deps.json
+D:\Dev\Design Pattern\ComposePC\ComposePC.Tests\bin\Debug\netcoreapp2.2\ComposePC.Tests.runtimeconfig.json
+D:\Dev\Design Pattern\ComposePC\ComposePC.Tests\bin\Debug\netcoreapp2.2\ComposePC.Tests.runtimeconfig.dev.json
+D:\Dev\Design Pattern\ComposePC\ComposePC.Tests\bin\Debug\netcoreapp2.2\ComposePC.Tests.dll
+D:\Dev\Design Pattern\ComposePC\ComposePC.Tests\bin\Debug\netcoreapp2.2\ComposePC.Tests.pdb
+D:\Dev\Design Pattern\ComposePC\ComposePC.Tests\bin\Debug\netcoreapp2.2\ComposePC.dll
+D:\Dev\Design Pattern\ComposePC\ComposePC.Tests\bin\Debug\netcoreapp2.2\ComposePC.pdb
+D:\Dev\Design Pattern\ComposePC\ComposePC.Tests\obj\Debug\netcoreapp2.2\ComposePC.Tests.csprojAssemblyReference.cache
+D:\Dev\Design Pattern\ComposePC\ComposePC.Tests\obj\Debug\netcoreapp2.2\ComposePC.Tests.csproj.CoreCompileInputs.cache
+D:\Dev\Design Pattern\ComposePC\ComposePC.Tests\obj\Debug\netcoreapp2.2\ComposePC.Tests.AssemblyInfoInputs.cache
+D:\Dev\Design Pattern\ComposePC\ComposePC.Tests\obj\Debug\netcoreapp2.2\ComposePC.Tests.AssemblyInfo.cs
+D:\Dev\Design Pattern\ComposePC\ComposePC.Tests\obj\Debug\netcoreapp2.2\ComposePC.Tests.csproj.CopyComplete
+D:\Dev\Design Pattern\ComposePC\ComposePC.Tests\obj\Debug\netcoreapp2.2\ComposePC.Tests.dll
+D:\Dev\Design Pattern\ComposePC\ComposePC.Tests\obj\Debug\netcoreapp2.2\ComposePC.Tests.pdb
