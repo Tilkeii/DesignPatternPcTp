@@ -2,7 +2,7 @@ namespace ComposePC
 {
     public interface IOptions
     {
-        float Prix {get;}
+        float Price { get; }
         
     }
 }

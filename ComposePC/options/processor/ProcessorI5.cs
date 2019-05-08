@@ -2,8 +2,8 @@ namespace ComposePC
 {
     public class ProcessorI5 : IProcessor
     {
-        public float Prix => 400.0f;
+        public float Price => 400.0f;
 
-        public string Type => "I7";
+        public string Type => "I5";
     }
 }

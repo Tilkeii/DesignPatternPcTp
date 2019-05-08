@@ -2,31 +2,31 @@ namespace ComposePC
 {
     public class PcBuilder
     {
-        public float TotalPrice = 0.0f;
+        public float TotalPrice;
         public IScreen Screen;
         public IProcessor Processor;
         public IRamMemory RamMemory;
 
-        public PcBuilder WithScreen(IScreen Screen) {
-            this.Screen = Screen;
-            this.TotalPrice += Screen.Prix;
+        public PcBuilder WithScreen(IScreen screen) {
+            Screen = screen;
+            TotalPrice += screen.Price;
             return this;
         }
 
-        public PcBuilder WithProcessor(IProcessor Processor) {
-            this.Processor = Processor;
-            this.TotalPrice += Processor.Prix;
+        public PcBuilder WithProcessor(IProcessor processor) {
+            Processor = processor;
+            TotalPrice += processor.Price;
             return this;
         }
 
-        public PcBuilder WithRamMemory(IRamMemory RamMemory) {
-            this.RamMemory = RamMemory;
-            this.TotalPrice += RamMemory.Prix;
+        public PcBuilder WithRamMemory(IRamMemory ramMemory) {
+            RamMemory = ramMemory;
+            TotalPrice += ramMemory.Price;
             return this;
         }
 
-        public Pc Build() {
-            return new Pc(this);
+        public PC Build() {
+            return new PC(this);
         }
     }
 }
